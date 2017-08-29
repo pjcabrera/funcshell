@@ -1,0 +1,25 @@
+{
+  "name": "funcshell",
+  "version": "0.0.1",
+  "description": "Turn the Node REPL into a command-line shell, extensible using ES2017, functional programming style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjcabrera/funcshell.git"
+  },
+  "keywords": [
+    "es2017"
+  ],
+  "author": "PJ Cabrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjcabrera/funcshell/issues"
+  },
+  "homepage": "https://github.com/pjcabrera/funcshell#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.1"
+  }
+}
